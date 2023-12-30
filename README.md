@@ -5,10 +5,10 @@
 ### IDEs
 ![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode&theme=dark)
 ### Database Tools 
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=aws,mysql,postgres,sqlite&theme=dark)
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,git,github,githubactions,heroku,linux,raspberrypi,stackoverflow&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,githubactions,heroku,linux,postman,raspberrypi,stackoverflow&theme=dark)
 
 ![](https://github.com/CodeConnoisseur74/CodeConnoisseur74/blob/output/github-contribution-grid-snake-dark.svg)
