@@ -3,7 +3,7 @@
 ### Languages, Libraries and Frameworks
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,css,cs,django,flask,html,jest,js,nodejs,py,p5js,react,ts&theme=dark)
 ### IDEs
-![My Skills](https://skillicons.dev/icons?i=neovim,vim,vscode&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=neovim,pycharm,vim,vscode&theme=dark)
 ### Database Tools 
 ![My Skills](https://skillicons.dev/icons?i=aws,mysql,postgres,sqlite&theme=dark)
 
