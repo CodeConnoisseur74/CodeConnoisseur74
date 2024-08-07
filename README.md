@@ -11,4 +11,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=arduino,bash,blender,cmake,docker,dotnet,git,github,githubactions,heroku,linux,postman,raspberrypi,stackoverflow,unity&theme=dark)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green-animate.svg)
