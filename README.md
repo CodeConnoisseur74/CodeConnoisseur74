@@ -4,22 +4,20 @@
 
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,css,cs,django,flask,html,jest,js,nodejs,py,p5js,react,ts&theme=dark)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
 
 ### IDEs
 ![My Skills](https://skillicons.dev/icons?i=neovim,pycharm,vim,vscode&theme=dark)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
 
 ### Database Tools 
 ![My Skills](https://skillicons.dev/icons?i=aws,mysql,postgres,sqlite&theme=dark)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" width="1920" />
 
 ### Tools
 
 ![My Skills](https://skillicons.dev/icons?i=arduino,bash,blender,cmake,docker,dotnet,git,github,githubactions,heroku,linux,postman,raspberrypi,stackoverflow,unity&theme=dark)
 
 ![](https://github.com/CodeConnoisseur74/CodeConnoisseur74/blob/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
