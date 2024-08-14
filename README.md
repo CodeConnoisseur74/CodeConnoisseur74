@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1500&pause=300&color=0C39F7&multiline=true&width=435&height=89&lines=Hello+%f0%9f%a5%b7+;Welcome+To+My+Github)](https://git.io/typing-svg)
 
-### Languages, Libraries and Frameworks <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+### Languages, Libraries and Frameworks 
 
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,css,cs,django,flask,html,jest,js,nodejs,py,p5js,react,ts&theme=dark)
 
