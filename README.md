@@ -9,8 +9,6 @@
 
 ### Tools
 
-![My Skills](https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif)
-
 ![My Skills](https://skillicons.dev/icons?i=arduino,bash,blender,cmake,docker,dotnet,git,github,githubactions,heroku,linux,postman,raspberrypi,stackoverflow,unity&theme=dark)
 
 ![](https://github.com/CodeConnoisseur74/CodeConnoisseur74/blob/output/github-contribution-grid-snake-dark.svg)
