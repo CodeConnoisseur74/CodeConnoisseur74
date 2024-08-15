@@ -6,7 +6,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,css,cs,django,flask,html,jest,js,nodejs,py,p5js,react,ts&theme=dark)
 
-<img src="daftpunktocat-thomas.gif" align="right" width=300% height=300%>
+<img src="daftpunktocat-thomas.gif" align="right" width=30% height=30%>
 
 ### IDEs
 ![My Skills](https://skillicons.dev/icons?i=neovim,pycharm,vim,vscode&theme=dark)
