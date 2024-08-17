@@ -13,21 +13,31 @@
   </a>
 </p>
 
-<img align="right" src="daftpunktocat-thomas-resize.gif">
-
-### IDEs
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,pycharm,vim,vscode&theme=dark" />
-  </a>
-</p>
-
-### Database Tools 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,sqlite&theme=dark" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+    <h3 align="center"><strong>IDEs</strong></h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img align="center" src="https://skillicons.dev/icons?i=neovim,pycharm,vim,vscode&theme=dark" />
+        </a>
+      </p>
+       <h3 align="center"><strong>Database Tools</strong></h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img align="center" src="https://skillicons.dev/icons?i=aws,mysql,postgres,sqlite&theme=dark" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <a href="#">
+          <img align="center" src="daftpunktocat-thomas-resize.gif" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### Tools
 <p align="left">
