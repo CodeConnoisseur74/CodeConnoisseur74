@@ -11,7 +11,7 @@
 <h2 align="center">Languages, Libraries and Frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,cs,django,flask,html,jest,js,nodejs,py,p5js,react,ts&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,cs,django,flask,html,jest,js,nodejs,py,p5js,react,ts,tailwind,threejs&theme=dark" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 <h2 align="center">Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,blender,cmake,docker,dotnet,git,github,githubactions,heroku,linux,postman,raspberrypi,stackoverflow,unity&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=arduino,bash,blender,cmake,docker,fastapi,git,github,heroku,htmx,linux,postman,raspberrypi,unity,vite&theme=dark" />
   </a>
 </p>
 
