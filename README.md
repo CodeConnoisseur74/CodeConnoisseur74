@@ -11,7 +11,7 @@
 <h2 align="center">Languages, Libraries and Frameworks</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,cs,django,flask,html,jest,js,nodejs,py,p5js,react,ts,tailwind,threejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=azure,css,cs,django,dotnet,flask,html,jest,js,nodejs,py,react,ts,tailwind,threejs&theme=dark" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
       <h3 align="center"><strong>IDEs</strong></h3>
       <p align="center">
         <a href="https://skillicons.dev">
-          <img align="center" src="https://skillicons.dev/icons?i=neovim,pycharm,vim,vscode&theme=dark" />
+          <img align="center" src="https://skillicons.dev/icons?i=neovim,vim,visualstudio,vscode&theme=dark" />
         </a>
       </p>
       <h3 align="center"><strong>Database Tools</strong></h3>
